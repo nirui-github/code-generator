@@ -16,7 +16,7 @@
 2. 目前导入表功能在SQLServer还没有测试
 
 #### 工具下载
-https://gitee.com/lpf_project/code-generator/releases/v4.6.0
+
 
 #### 运行说明
 
