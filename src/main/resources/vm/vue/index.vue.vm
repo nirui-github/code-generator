@@ -317,7 +317,7 @@
         </el-table>
 #end
       </el-form>
-      <div slot="footer" class="dialog-footer">
+      <div slot="footer" class="dialog-footer"  v-if="!disabledFlag" style="text-align:center">
         <el-button type="primary" @click="submitForm">确 定</el-button>
         <el-button @click="cancel">取 消</el-button>
       </div>
